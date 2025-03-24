@@ -1,0 +1,7 @@
+pandas
+numpy
+torch
+matplotlib
+scikit-learn
+openpyxl  # 用于读取Excel文件
+chronos-forecasting   # Amazon Chronos模型 
